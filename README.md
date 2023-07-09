@@ -17,3 +17,10 @@ If you're looking for a bit of a challenge. Eveything will move alot faster wich
 The opponent is currently a hardcoded "bot" that follows the balls height and moves accordingly. It uses a random number to decide if it will move or not, making it miss the ball sometimes.
 
 I'll possibly add an ai in the future, if I'll decide to revisit the project.
+
+## Installation and use
+To install the packages needed by the program: \
+    `pip install -r requirements.txt` 
+
+To run the program: \
+  `python Pong_no_AI.py`
